@@ -21,3 +21,7 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 - Understand and use string interpolation.
 - Learn about basic dart programming concepts such as data types and functions.
 - Code and use gesture controls.
+
+## Project layout & app design
+
+![Dice App](https://github.com/nil4587/dice_app_flutter/assets/3828906/63a8a2d8-c176-484d-9b98-6ec837a4a367)
